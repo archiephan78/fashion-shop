@@ -135,7 +135,7 @@ module.exports = function (grunt) {
             options: {
                 base: 'public',
                 branch: 'gh-pages',
-                repo: 'https://github.com/thienkim-frontend/fashion-shop.git'
+                repo: 'https://github.com/archiephan78/fashion-shop.git'
             },
             src: '**/*'
         }
